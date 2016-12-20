@@ -1,0 +1,1 @@
+Notebooks by Peter Norvig, downloaded from [http://norvig.com/ipython/README.html](http://norvig.com/ipython/README.html)
