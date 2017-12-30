@@ -4,3 +4,6 @@
 [submodule "books/scientific-python-lectures"]
 	path = books/scientific-python-lectures
 	url = https://github.com/jrjohansson/scientific-python-lectures
+[submodule "books/Python-for-Signal-Processing"]
+	path = books/Python-for-Signal-Processing
+	url = https://github.com/unpingco/Python-for-Signal-Processing
