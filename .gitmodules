@@ -7,3 +7,6 @@
 [submodule "books/Python-for-Signal-Processing"]
 	path = books/Python-for-Signal-Processing
 	url = https://github.com/unpingco/Python-for-Signal-Processing
+[submodule "tutorials/data-science-ipython-notebooks"]
+	path = tutorials/data-science-ipython-notebooks
+	url = https://github.com/donnemartin/data-science-ipython-notebooks
