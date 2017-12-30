@@ -1,3 +1,6 @@
 [submodule "books/PythonDataScienceHandbook"]
 	path = books/PythonDataScienceHandbook
 	url = https://github.com/jakevdp/PythonDataScienceHandbook
+[submodule "books/scientific-python-lectures"]
+	path = books/scientific-python-lectures
+	url = https://github.com/jrjohansson/scientific-python-lectures
