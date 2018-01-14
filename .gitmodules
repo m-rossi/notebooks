@@ -10,3 +10,6 @@
 [submodule "tutorials/data-science-ipython-notebooks"]
 	path = tutorials/data-science-ipython-notebooks
 	url = https://github.com/donnemartin/data-science-ipython-notebooks
+[submodule "books/handson-ml"]
+	path = books/handson-ml
+	url = https://github.com/ageron/handson-ml
